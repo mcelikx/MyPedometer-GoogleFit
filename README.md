@@ -1,0 +1,2 @@
+# MyPedometer
+# MyPedometer-GoogleFit
